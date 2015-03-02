@@ -8,5 +8,14 @@ and open the template in the editor.
     Author     : lekalina
 */
 
-h1 {color:red;}
-body{background-color: lightblue;}
+h1 {
+    color:red;
+}
+body{
+    background-color: lightblue;
+}
+.banner {
+    padding:10px;
+    background-color: aquamarine;
+    font-size: 25px;
+}
