@@ -11,7 +11,7 @@
             <h1>Lek's Webpage</h1>
             <h2 title="Lek's Webpage" style="color: magenta">Welcome to my webpage</h2>
             <p>
-                <br>Wanna know more about me? Visit one of my websites.<br>
+        <br><p class="banner">Wanna know more about me? Visit one of my websites.</p><br>
             <a href="http://www.lekalina.tumblr.com">Lekalina's Tumblr Page</a><br>
             <a href="http://www.twitter.com/lekalina">Lekalina's Twitter Page</a>
             </p>
