@@ -18,14 +18,8 @@
             <a href="http://www.kayak.com">
             <img src="palmtree.jpg" style="width:400px;height:300px">
             </a>
-            <p>To open a file, select:</p>
-            <p><kbd>File | Open...</kbd></p>
-            <p>Coding Example:</p>
-            <code>
-                <pre>
-                
-                </pre>
-            </code>
+            
+            <input type="text" name="comment">
             
 	</body>
         <script>
