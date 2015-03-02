@@ -9,13 +9,61 @@ and open the template in the editor.
 */
 
 h1 {
-    color:red;
+    font-family: helvetica;
+    //border: 1px solid blueviolet;
+    //margin: 30px;
 }
-body{
-    background-color: lightblue;
+h2{color: magenta}
+body{background-color: white;}
+//.banner {
+  //  padding:10px;
+  //background-color: window;
+  // font-size: 18px;
+//}
+//.banner a {}
+a:hover {
+    color: pink;
 }
-.banner {
-    padding:10px;
-    background-color: aquamarine;
-    font-size: 25px;
+//#myid {color: magenta;}
+table{width: 100%;}
+table, th, td{
+    border: 3px solid violet; 
+    border-collapse: collapse;
+    text-align: center;
+}
+table#menu{table, th, td{text-align: left;}} 
+
+div#london{background-color: black;
+    color: white; 
+    margin-left: 300px;
+    margin-top: 20px;
+    padding: 50px;
+    width: 250px;}
+
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+.nav{
+    line-height: 30px;
+    background-color: #eeeeee;
+    width: 405px;
+    height: 305px;
+    float: left;
+    padding: 10px;
+}
+.section{
+    width: 500px;
+    float: left;
+    padding: 10px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    clear: both;
+    text-align: center;
+    padding: 5px;
 }
