@@ -3,6 +3,7 @@
 <html lang="en-US">
 	<head>
             <title> Lekalina's HTML Webpage </title>
+            <link href="/css/main.css" rel="stylesheet">
 	</head>
         
         <body> <!--style="background-color: lightblue"-->
@@ -20,6 +21,7 @@
             </a>
             
             <input type="text" name="comment">
+            
             
 	</body>
         <script>
