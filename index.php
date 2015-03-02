@@ -23,14 +23,22 @@
             <p>Coding Example:</p>
             <code>
                 <pre>
-                var person = {
+                
+                </pre>
+            </code>
+            
+	</body>
+        <script>
+            
+            
+            var person = {
                 firstName: "John",
                 lastName: "Doe",
                 age:50,
                 eyeColor: "blue"
                 }
-                </pre>
-            </code>
-            
-	</body>
+                
+            </script>
+        
 </html>
+
