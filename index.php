@@ -89,8 +89,37 @@
             </tr>
         </table>
     <div class="footer">
-        <h3>This is for </h3>     
+        <h3>Calculator</h3>     
     </div>
+ <div class="calculator">
+ <p id='solution'> solution </p>
+ 
+ <button id='clear'>AC</button>
+ <button id='dot'>.</button>
+ <button id="percent">%</button>
+ <button id='divide'>/</button><br><br>
+ <button id='seven'>7</button>
+ <button id='eight'>8</button>
+ <button id='nine'>9</button>
+ <button id='times'>x</button><br><br>
+ <button id='four'>4</button>
+ <button id='five'>5</button>
+ <button id='six'>6</button>
+ <button id='minus'>-</button><br><br>
+ <button id='one'>1</button>
+ <button id='two'>2</button>
+ <button id='three'>3</button>
+ <button id='plus'>+</button><br><br>
+ <button id='zero'>0</button>
+ <button id='equals'>=</button>
+
+ </div>
+     <div class="footer">
+        <h3>miscellaneous</h3>     
+    </div>     
+    <div class="nav"></div>
+    <div class="section"></div>
+    <div class="footer"></div>
 <!--dad's script-->            
             <input type="text" name="comment">
             
@@ -132,8 +161,10 @@
 <body>
     
 </body>
-
+<div class="footer"></div>
  <img src="me&Kimi.jpg">
+ 
+<div class="footer"></div>
 </html>
 
 
